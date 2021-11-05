@@ -1,6 +1,6 @@
 XPower7125
 ----------
-### Currently working on
+# Currently working on
 - OpenISO DL
 - Windows theming Archive
 - DragonBot Discord Bot
@@ -8,9 +8,9 @@ XPower7125
 - https://xpower7125.github.io aka https://www.xpowerm.l
 ---------
 # OSs
-## Windows 11 21H2 
-## Manjaro Linux Cinnamon
-## MacOS Big Sur 11
+### Windows 11 21H2 
+### Manjaro Linux Cinnamon
+### MacOS Big Sur 11
 ----------
 # Contact Me
 - Discord: XPower7125#7349
