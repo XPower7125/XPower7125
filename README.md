@@ -1,6 +1,7 @@
 XPower7125
 ----------
 # Currently working on
+- CopyRush 2021
 - OpenISO DL
 - Windows theming Archive
 - DragonBot Discord Bot
@@ -9,7 +10,7 @@ XPower7125
 ---------
 # OSs
 ### Windows 11 21H2 
-### Manjaro Linux Cinnamon
+### Garuda Linux Gnome
 ### MacOS Big Sur 11
 ----------
 # Contact Me
