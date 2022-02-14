@@ -1,11 +1,12 @@
 XPower7125
 ----------
 # Currently working on
-- CopyRush 2021
+- CopyRush 2022
 - OpenISO DL
 - Windows theming Archive
 - DragonBot Discord Bot
-- windows 10 gaming customization
+- SUS MusicBot
+- Baracchino BOt
 - https://xpower7125.github.io aka https://www.xpowerm.l
 ---------
 # OSs
