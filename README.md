@@ -10,7 +10,7 @@ XPower7125
 ---------
 # OSs
 ### Windows 11 21H2 
-### Garuda Linux Gnome
+### Ubuntu 21.10
 ### MacOS Big Sur 11
 ----------
 # Contact Me
