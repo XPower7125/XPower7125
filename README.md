@@ -15,6 +15,6 @@ XPower7125
 ### MacOS Big Sur 11
 ----------
 # Contact Me
-- Discord: XPower7125#7349
+- Discord: XPower7125#8669
 - Twitter: @Power7125X
 - Reddit: u/XPoower7125
