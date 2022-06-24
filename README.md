@@ -10,8 +10,7 @@ XPower7125
 - https://xpower7125.github.io aka https://www.xpowerm.l
 ---------
 # OSs
-### Windows 11 21H2 
-### Ubuntu 21.10
+### Windows 11 22H2 
 ### MacOS Big Sur 11
 ----------
 # Contact Me
