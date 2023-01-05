@@ -8,8 +8,9 @@ XPower7125
 - C#
 
 # Currently working on
-- CopyRush 2022
-- Baracchino Bot
+- ScreenSH
+- Something in C#
+- DiSH
 - https://xpower7125.github.io aka https://www.xpowerm.l
 ---------
 # OSs
