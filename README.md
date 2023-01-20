@@ -1,8 +1,5 @@
 XPower7125
 ----------
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xpower7125&theme=tokyonight)
--
-![Stats](https://github-readme-stats.vercel.app/api?username=xpower7125&theme=tokyonight)
 
 # Learning
 - C#
