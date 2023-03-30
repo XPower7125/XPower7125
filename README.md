@@ -12,8 +12,3 @@ XPower7125
 ---------
 # OSs
 ### Windows 11 22H2 
-----------
-# Contact Me
-- Discord: XPower7125#8669
-- Twitter: @Power7125X
-- Reddit: u/XPoower7125
