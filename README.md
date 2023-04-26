@@ -8,4 +8,4 @@ XPower7125
 nothing
 ---------
 # OSs
-### Windows 11 Dev channel
+ReviOS
