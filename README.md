@@ -8,4 +8,4 @@ XPower7125
 nothing
 ---------
 # OSs
-ReviOS
+Windows 10 LTSC 2019
