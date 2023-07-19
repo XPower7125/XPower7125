@@ -8,4 +8,4 @@ XPower7125
 nothing
 ---------
 # OSs
-Windows 10 LTSC 2019
+ZorinOS 16
