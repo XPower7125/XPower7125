@@ -8,4 +8,4 @@ XPower7125
 nothing
 ---------
 # OSs
-ZorinOS 16
+Windows 11 Insider Beta (23H2)
