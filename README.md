@@ -11,4 +11,4 @@ XPower7125
 - Other projects
 
 # OSs
-Windows 11 Insider Beta (23H2)
+Windows 11 22H2 (Nexus LiteOS)
